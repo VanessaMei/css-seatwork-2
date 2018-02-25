@@ -1,0 +1,12 @@
+section.row {
+    background-color: yellow;
+}
+
+section.col {
+    width: 33%;
+    float: left;
+}
+
+section.row {
+    background-color: yellow;
+}
